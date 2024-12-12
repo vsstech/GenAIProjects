@@ -3,13 +3,13 @@ Setup instructions (mac)
 
 1. 
   a. Clone repo 
-  			git clone https://github.com/vsstech/vss_llm_engineering
+  			git clone https://github.com/vsstech/llm_projects
   b.Open a new Terminal (Applications > Utilities > Terminal)
      Run python --version to find out which python you're on. Ideally you'd be using a version of Python 3.11
      You can download python here:
      https://www.python.org/downloads/
 
-  c.Navigate to the "project root directory" using cd ~/Documents/Projects/vss_llm_engineering (replace this path with the actual path to the llm_engineering directory, your locally cloned version of the repo). Do ls and check you can see subdirectories for each week of the course.
+  c.Navigate to the "project root directory" using cd ~/Documents/Projects/llm_projects (replace this path with the actual path to the llm_engineering directory, your locally cloned version of the repo). Do ls and check you can see subdirectories for each week of the course.
      Then, create a new virtual environment with this command:
      python -m venv llme
 
