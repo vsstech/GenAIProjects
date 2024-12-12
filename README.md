@@ -21,7 +21,7 @@ Setup instructions (mac)
 
    d.Start Jupyter Lab:
 
-      From within the vss_llm_engineering folder, type: jupyter lab
+      From within the llm_projects folder, type: jupyter lab
        ...and Jupyter Lab should open up, ready for you to get started			
 
 2. Install Local Light weight LLM Ollama 
