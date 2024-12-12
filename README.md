@@ -26,7 +26,7 @@
     source llme/bin/activate 
   ```
 
-   You should see (llms) in your command prompt, which is your sign that things are going well. Run below dommand
+   You should see (llme) in your command prompt. Run below command
   
   ```bash
 	pip install -r requirements.txt
